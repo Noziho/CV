@@ -1,0 +1,17 @@
+{
+    "name": "noahd/cv",
+    "description": "make curriculum vitae",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noziho"
+        }
+    ],
+    "require": {
+        "symfony/error-handler": "^5.4"
+    }
+}
